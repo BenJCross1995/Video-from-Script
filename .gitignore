@@ -12,3 +12,5 @@ video.mp4
 *.txt
 *.checkpoint
 *.png
+Credentials.json
+YouTube API Credentials.json
